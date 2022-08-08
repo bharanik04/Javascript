@@ -1,0 +1,5 @@
+Webdav Notes
+
+dav server from box.com:
+dav.box.com
+nithesh.chandra@netskope.com / Netskope@123
